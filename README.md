@@ -18,6 +18,8 @@ XGBoost
 
 ## Documentation
 https://github.com/DavidAgu-San/JCSU_Tech/blob/main/Adgreen%20frontend%20demo%20.mp4
+https://jcsu-my.sharepoint.com/:f:/g/personal/h_mhlanga_2024_mymail_jcsu_edu/Epi6b5f3oqBHlYt5f4vD2X8Bs4vyanahSIrtC8WPTox75A?e=rtEJvn
+
 
 
 
