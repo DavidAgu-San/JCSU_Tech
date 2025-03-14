@@ -5,6 +5,8 @@ Adgreen: Implementing machine learning classification to analyse future trends, 
 #Overview
 Amazon is one of the leading ecommerce logistic providers that leverages advertisements in digital marketing.The number of advertisements sent out are continuos and frequently inefficient because users get frustrated by the amount of untailored advertisements they receive. We have come up with Adgreen, a machine learning framework to evaluate the perfomance of advertisements sent out on Amazon's website.This evaluation metric is important to gauge the advertisement reach, impact on customer engagement whilst increasing ad efficiency.
 
+
+
 Machine Learning Models used:
 K-nearest neighbours
 Logistic Regression
@@ -21,7 +23,7 @@ XGBoost
 
 
 
-## Demo
+## Workflow
 
 Insert gif or link to demo
 
