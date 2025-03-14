@@ -3,7 +3,7 @@
 # Project Title
 
 A brief description of what this project does and who it's for
-Amazon is one of the leading ecommerce logistic providers that leverages advertisements in digital marketing.The number of advertisements sent out are continuos and frequently inefficient because users get frustrated by the amount of untailored advertisements they receive. We have come up with Adgreen, a machine learning framework to evaluate the perfomance of advertisements sent out on Amazon's website.This evaluation metric is important to gauge the advertisement reach, impact on customer engagement whilst reducing the amount of advertisements wasted.
+Amazon is one of the leading ecommerce logistic providers that leverages advertisements in digital marketing.The number of advertisements sent out are continuos and frequently inefficient because users get frustrated by the amount of untailored advertisements they receive. We have come up with Adgreen, a machine learning framework to evaluate the perfomance of advertisements sent out on Amazon's website.This evaluation metric is important to gauge the advertisement reach, impact on customer engagement whilst reducing the amount of advertisements wasted. so this is like description of ML part. embedd it with your solution
 
 ## Documentation
 
