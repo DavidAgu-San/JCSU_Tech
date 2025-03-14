@@ -1,0 +1,38 @@
+How to run:
+- Ensure you have the OpenAI Python package installed. If not, install it using:
+    pip install openai
+- Import the required OpenAI client in your script
+    from openai import OpenAI
+- Aquire and define API key where data is located at
+- Run the Script
+  python your_script.py
+
+
+
+The script imports and initializes an OpenAI client using an API key.
+
+The Agent class then, encapsulates the properties and behaviors of different AI agents.
+Each agent has a name and instructions that define its specific role.
+The process method enables interaction with OpenAI’s API, generating responses based on the provided input.
+(Multi-Agent Architecture)
+
+The system uses multiple AI agents, each assigned a unique responsibility:
+Agent1 (data scanner): Identifies components of the dataset.
+Agent2 (data analysis): Provides a summary and insights.
+Agent3 (data reporter): Cleans and refines the analysis.
+Agent4 (data decider): Makes unbiased decisions based on user interaction and location.
+Agent5 (data improver): Receives feedback to enhance AI service quality.
+Structured Data Processing
+
+The dataset contains various attributes such as:
+Daily Internet Usage
+Age
+Area Income
+Clicked on Ad (Yes/No)
+These attributes are analyzed for insights and decision-making.
+Sequential Data Processing Flow
+
+The raw dataset (document) is first analyzed by Agent2.
+The output is then refined by Agent3 before further actions are taken.
+
+
