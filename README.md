@@ -25,7 +25,9 @@ XGBoost
 
 ## Workflow
 
-Insert gif or link to demo
+https://github.com/DavidAgu-San/JCSU_Tech/blob/main/workflow.gif
+
+
 
 
 
@@ -50,8 +52,44 @@ Features:
 -Daily internet usage
 -Age
 
+Future Mapping:
 
-## Feedback
+Future Plans for AI Integration and Trend Predictive Analysis
+Objective
+To integrate the Adgreen model with AI agents to enable autonomous learning from new data and perform predictive analysis on advertisement trends, thereby enhancing the model’s adaptability and precision in real-time environments.
 
-If you have any feedback please reach out at @(DAVID INPUTS API KEYS)
+Strategy
+AI Agent Integration
+Development of AI Agents:
+
+Design and Implement AI Agents: Develop AI agents capable of interacting with the Adgreen machine learning model, receiving new data inputs, and analyzing performance metrics.
+
+Automated Learning Algorithms: Implement algorithms that enable AI agents to learn continuously from new data, improving their prediction accuracy and decision-making capabilities over time.
+
+Real-Time Data Acquisition:
+
+Continuous Data Stream: Establish data pipelines that provide a steady stream of new data related to advertisement performance, user behavior, and engagement metrics.
+
+Data Preprocessing: Develop preprocessing mechanisms to ensure data quality and consistency before feeding it to the AI agents.
+
+Predictive Analysis
+Trend Analysis Models:
+
+Implement Predictive Models: Incorporate trend analysis models within the AI agents to predict future trends based on historical and real-time data.
+
+Adaptive Learning: Enable models to adapt to changing trends by continuously updating their parameters based on new data inputs.
+
+Performance Evaluation and Feedback Loop:
+
+Continuous Evaluation: Set up a feedback loop for continuous evaluation of the AI agents' performance, using metrics such as accuracy, precision, recall, and user engagement.
+
+Iterative Improvements: Use the feedback to iteratively improve the model and AI agents, ensuring their predictions and decisions become increasingly accurate over time.
+
+Scalability and Robustness
+Scalable Infrastructure:
+
+Cloud Integration: Utilize cloud-based platforms to ensure the scalability and robustness of the AI agents and data processing pipelines.
+
+Resource Allocation: Implement dynamic resource allocation to manage computational load efficiently and maintain performance during peak times.
+
 
