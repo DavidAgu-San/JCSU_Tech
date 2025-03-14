@@ -1,54 +1,24 @@
 # JCSU_Tech
 
 # Project Title
+Adgreen: Implementing machine learning classification to analyse future trends, make better decisions and 
+#Overview
+Amazon is one of the leading ecommerce logistic providers that leverages advertisements in digital marketing.The number of advertisements sent out are continuos and frequently inefficient because users get frustrated by the amount of untailored advertisements they receive. We have come up with Adgreen, a machine learning framework to evaluate the perfomance of advertisements sent out on Amazon's website.This evaluation metric is important to gauge the advertisement reach, impact on customer engagement whilst increasing ad efficiency.
 
-A brief description of what this project does and who it's for
-Amazon is one of the leading ecommerce logistic providers that leverages advertisements in digital marketing.The number of advertisements sent out are continuos and frequently inefficient because users get frustrated by the amount of untailored advertisements they receive. We have come up with Adgreen, a machine learning framework to evaluate the perfomance of advertisements sent out on Amazon's website.This evaluation metric is important to gauge the advertisement reach, impact on customer engagement whilst reducing the amount of advertisements wasted. so this is like description of ML part. embedd it with your solution
+Machine Learning Models used:
+K-nearest neighbours
+Logistic Regression
+Decision Tree
+Random Forest
+K-Nearest Neighbours
+Gradient Boosting
+XGBoost
 
 ## Documentation
 
 [Documentation](https://linktodocumentation)
 
 
-## API Reference : DAVID
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Demo
